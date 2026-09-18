@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
+  <img src="assets/header.svg" width="100%" alt="Kumaraguru T Header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeepakAmalWinstarJ">
+  <a href="https://github.com/Kumaraguru27">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+  <a href="https://linkedin.com/in/kumaraguruthangamani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
+  <a href=https:"//www.instagram.com/_._mr_._hustler_._?stkn=dTFiNW8zeTk3NGh3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
+  <a href="https://leetcode.com/kumaragur_27-" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
+  <a href="mailto: kumaragurut900@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   &nbsp;
@@ -29,14 +29,11 @@
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+  <a href="https://github.com/kumaraguru27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -51,8 +48,8 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+  Hey! I'm <b>Kumaraguru T J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  I specialize in AI and ML , python programming,integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
 <p align="center">
@@ -64,7 +61,7 @@
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+  💬 <b>Let's Discuss:</b> python , sql AI and ML Architecture & Git Workflows.<br />
   ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
 </p>
 
