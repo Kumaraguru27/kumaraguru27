@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Kumaraguru T J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  Hey! I'm <b>Kumaraguru T </b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
   I specialize in AI and ML , python programming,integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
