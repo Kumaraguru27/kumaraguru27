@@ -1,160 +1,221 @@
 <div align="center">
 
-# 🕷️ KUMARAGURU T
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:120000,75:4A0000,100:000000&height=220&section=header&text=KUMARAGURU%20T&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=58&descSize=20&animation=fadeIn"/>
 
-### `AI / ML ENGINEER`
+# 🕷️ AI / ML ENGINEER
 
-**Building intelligent systems. Turning data into decisions.**
+### `Building Intelligence. Creating Impact.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:180000,100:8B0000&height=180&section=header&text=KUMARAGURU%20T&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER&descAlignY=55&descSize=18&animation=fadeIn"/>
+<br>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-111111?style=for-the-badge&logo=tensorflow&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/DEEP%20LEARNING-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
 
 </div>
 
 ---
 
-## 🕷️ ABOUT ME
+## 🕸️ ABOUT ME
 
-I'm an **AI/ML Engineer** passionate about building intelligent solutions that transform complex data into meaningful insights.
+I'm an **AI/ML Engineer** passionate about transforming data into intelligent solutions.
 
-My interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, and intelligent automation**. I enjoy working on real-world problems where AI can improve decision-making, optimize processes, and create smarter systems.
+I enjoy exploring **Artificial Intelligence, Machine Learning, Deep Learning, and intelligent automation**, with a focus on building practical systems that can solve real-world problems.
 
-I'm constantly exploring new AI technologies, experimenting with models, and turning ideas into practical projects.
+My approach is simple:
 
-> **"With great data comes great intelligence."** 🕸️
+> **Understand the problem → Learn from the data → Build the intelligence → Create impact.**
+
+I'm constantly learning, experimenting with emerging technologies, and turning ideas into working AI-driven projects.
 
 ---
 
-## 🧠 AI / ML FOCUS
+## 🧠 TECH STACK
 
-```text
-Artificial Intelligence     ████████████████████
-Machine Learning            ██████████████████
-Deep Learning               ████████████████
-Data Analysis               ███████████████
-Intelligent Automation      ██████████████
-```
+<div align="center">
 
-### ⚡ What I Work With
+### Programming & Data
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,git,github,azure" />
+<br><br>
 
-</p>
+### AI / ML
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br><br>
+
+### Tools & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,azure"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 `Python` • `SQL` • `Artificial Intelligence` • `Machine Learning` • `Deep Learning`
 
-</p>
+</div>
 
 ---
 
-# 🕸️ FEATURED PROJECTS
+# 🕷️ FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🩺 Sigma Health AI
 
-> **AI-powered healthcare intelligence system**
+**AI-powered healthcare intelligence**
 
-An AI-based solution designed to analyze **doctor credit scores** and provide meaningful data-driven insights.
+An AI-based system designed to analyze **doctor credit scores** and provide meaningful data-driven insights.
+
+**Focus**
 
 `AI` `Machine Learning` `Healthcare`
 
----
+</td>
 
-### 🌱 AI Crop Monitoring System
+<td width="50%" valign="top">
 
-> **Intelligent agriculture through AI**
+### 🌱 AI Crop Monitoring
 
-An AI-powered crop monitoring concept designed to analyze agricultural conditions and support smarter crop-management decisions.
+**Intelligent agriculture through AI**
+
+An AI-powered crop monitoring system designed to provide intelligent insights for smarter agricultural decision-making.
+
+**Focus**
 
 `AI` `Computer Vision` `Smart Agriculture`
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🧘 Smart Yoga Mat
 
-> **Technology meets intelligent wellness**
+**Intelligent wellness technology**
 
-A smart system designed to monitor yoga activities and provide intelligent feedback using connected sensors and automation.
+A smart system designed to monitor yoga activities and provide intelligent feedback using sensors and automation.
+
+**Focus**
 
 `IoT` `Sensors` `Automation`
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### ☀️ Automated Solar Grass Cutter
 
-> **Smart automation powered by solar energy**
+**Smart automation powered by solar energy**
 
-An automated grass-cutting system combining renewable energy with intelligent mechanical automation.
+An automated grass-cutting system combining renewable energy with intelligent automation.
+
+**Focus**
 
 `Automation` `Solar Energy` `Robotics`
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🧬 AI JOURNEY
+# ⚡ AI JOURNEY
+
+<div align="center">
 
 ```text
-                    ┌──────────────────┐
-                    │    RAW DATA      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DATA ANALYSIS   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ MACHINE LEARNING │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │  DEEP LEARNING   │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ INTELLIGENT AI   │
-                    └──────────────────┘
+                  ┌─────────────────┐
+                  │    RAW DATA     │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │  DATA ANALYSIS  │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ MACHINE LEARNING│
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ DEEP LEARNING   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │ INTELLIGENT AI  │
+                  └─────────────────┘
 ```
+
+</div>
 
 ---
 
 # 🏆 CERTIFICATIONS
 
-* 🟦 **Microsoft Azure AI Certification**
-* 🤖 **AI-based Certifications — PrepInsta**
-* 🚀 Continuously learning and exploring emerging AI technologies
+<div align="center">
+
+| Certification              |    Platform   |
+| :------------------------- | :-----------: |
+| 🟦 Azure AI Certification  | **Microsoft** |
+| 🤖 AI-based Certifications | **PrepInsta** |
+
+</div>
 
 ---
 
-# 🎯 CURRENTLY
-
-```diff
-+ Building AI/ML projects
-+ Exploring Deep Learning
-+ Improving Python & SQL
-+ Learning modern AI technologies
-+ Turning ideas into real-world solutions
-```
-
----
-
-# 🕷️ THE MINDSET
+# 🚀 CURRENTLY EXPLORING
 
 <div align="center">
 
-### **LEARN. BUILD. BREAK. IMPROVE. REPEAT.**
-
 ```text
-╔══════════════════════════════════════╗
-║                                      ║
-║     DATA  →  INTELLIGENCE  →  IMPACT ║
-║                                      ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║       🤖 ARTIFICIAL INTELLIGENCE                 ║
+║                                                  ║
+║       🧠 MACHINE LEARNING                       ║
+║                                                  ║
+║       🔥 DEEP LEARNING                          ║
+║                                                  ║
+║       📊 DATA-DRIVEN INTELLIGENCE                ║
+║                                                  ║
+║       ⚙️ INTELLIGENT AUTOMATION                  ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+# 🕸️ THE MINDSET
+
+<div align="center">
+
+### **LEARN. BUILD. BREAK. IMPROVE.**
+
+<br>
+
+> **"The future belongs to those who build it."**
+
+<br>
+
+`DATA` → `INTELLIGENCE` → `INNOVATION` → `IMPACT`
 
 </div>
 
@@ -168,6 +229,8 @@ An automated grass-cutting system combining renewable energy with intelligent me
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
+ 
+
 <a href="mailto:kumaragurut900@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -178,10 +241,12 @@ An automated grass-cutting system combining renewable energy with intelligent me
 
 <div align="center">
 
-### 🕸️ `KUMARAGURU27`
+### 🕷️ `KUMARAGURU27`
 
-**AI/ML Engineer • Builder • Learner**
+**AI / ML Engineer • Builder • Learner**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:180000,100:000000&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:4A0000,75:120000,100:000000&height=140&section=footer"/>
 
 </div>
